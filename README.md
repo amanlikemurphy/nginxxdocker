@@ -1,6 +1,9 @@
 # nginxxdocker
 Reverse Proxy for Microservices Using Docker and Nginx
 
+Full Article:
+https://murphyelo.com/posts/notes/nginx-server/
+
 ## Description:
 This project demonstrates the implementation of using Docker containers and Nginx as a reverse proxy for a task management application with two microservices:
 
